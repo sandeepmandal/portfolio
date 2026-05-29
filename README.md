@@ -2,7 +2,7 @@
 
 > Apple-dark personal portfolio template built with React 19, Vite, Framer Motion, and Leaflet. Particle canvas hero, scroll-reveal animations, interactive travel map, light/dark theme toggle.
 
-**Live:** [sandeepmandal.dev](https://sandeepmandal.dev) &nbsp;·&nbsp; **LinkedIn:** [mandalsandeep](https://linkedin.com/in/mandalsandeep)
+**Live:** [sandeepmandal.vercel.app](https://sandeepmandal.vercel.app) &nbsp;·&nbsp; **LinkedIn:** [mandalsandeep](https://linkedin.com/in/mandalsandeep)
 
 ---
 
